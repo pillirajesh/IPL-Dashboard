@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.list-container {
+  list-style-type: none;
+  background-color: #000000;
+  font-weight: bold;
+  font-family: 'bree serif';
+  padding: 20px;
+  min-width: 460px;
+  height: 400px;
+  margin-right: 30px;
+  margin-bottom: 30px;
+  border-radius: 7px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.card-heading {
+  color: #ffffff;
+  font-size: 25px;
+}
+
+.match-status {
+  color: #18ed66;
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.status {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.winning-image {
+  height: 120px;
+  width: 100px;
+}
+
+.color {
+  color: #e31a1a;
+}

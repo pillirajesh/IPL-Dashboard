@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.teams-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  min-width: 700px;
+  height: 150px;
+  padding: 20px;
+  margin-bottom: 25px;
+  margin-right: 25px;
+}
+
+.name {
+  color: #ffffff;
+  font-family: 'bree serif';
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 20px;
+}
+
+.team-image {
+  width: 70px;
+  height: 80px;
+}
+
+.list-container3 {
+  list-style-type: none;
+}
+
+.link {
+  text-decoration: none;
+}

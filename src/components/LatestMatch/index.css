@@ -1,0 +1,41 @@
+/* Write your CSS here */
+
+.latest-matches {
+  font-family: 'bree serif';
+  font-weight: 400;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.latest-match {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+  background-color: #000000;
+  color: #ffffff;
+  font-family: 'bree serif';
+  padding: 30px;
+  border-radius: 5px;
+  width: 100%;
+}
+
+.venue {
+  font-size: 15px;
+}
+
+.date {
+  font-size: 20px;
+}
+
+.innings {
+  font-size: 25px;
+}
+
+.man-of-the-match {
+  font-size: 22px;
+}
+
+.umpires {
+  font-size: 20px;
+}

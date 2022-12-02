@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.team-matches-bg-container {
+  background-color: #a4261d;
+  background-size: cover;
+  padding: 30px;
+  width: 100vw;
+}
+
+.team-banner-image {
+  width: 100%;
+  height: 350px;
+}
+
+.unordered-list1 {
+  padding-left: 0px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.loader {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
